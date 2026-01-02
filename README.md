@@ -56,7 +56,7 @@ Project by **Kyronix**.
 - **CPU:** ARM64 (AArch64)
 - **Init:** systemd
 - **Time daemon:** chrony
-- **Access:** SSH only - first login with password (user: root, password: admin)
+- **Access:** SSH/locally - first login with password (user: root, password: admin)
 - **Package scope:** minimal (no desktop, no UI)
 
 ---
